@@ -1,4 +1,4 @@
-# Company-assignment berlin
+# Company-assignment-berlin
 
 For simplisity, I used first 5 file of Geo data. 
 
